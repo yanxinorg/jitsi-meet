@@ -135,7 +135,8 @@
     "profile": {
         "title": "Profile",
         "setDisplayNameLabel": "Set your display name",
-        "setEmailLabel": "Set your gravatar email"
+        "setEmailLabel": "Set your gravatar email",
+        "setEmailInput": "Enter e-mail"
     },
     "videothumbnail":
     {
