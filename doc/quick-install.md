@@ -10,7 +10,7 @@ N.B.: All commands are supposed to be run by root. If you are logged in as a reg
 
 ### Add the repository
 ```sh
-echo 'deb https://download.jitsi.org stable/' >> /etc/apt/sources.list.d/jitsi-stable.list
+echo 'deb https://download.jitsi.org/stable/' >> /etc/apt/sources.list.d/jitsi-stable.list
 wget -qO -  https://download.jitsi.org/jitsi-key.gpg.key | apt-key add -
 ```
 
